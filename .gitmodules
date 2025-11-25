@@ -1,0 +1,9 @@
+[submodule "Andrej-Karpathy-zero-to-hero/my-codes/makemore-lecs"]
+	path = Andrej-Karpathy-zero-to-hero/my-codes/makemore-lecs
+	url = https://github.com/Rmehta-sudo/makemore-lecs.git
+[submodule "Andrej-Karpathy-zero-to-hero/neural-net"]
+	path = Andrej-Karpathy-zero-to-hero/neural-net
+	url = https://github.com/Rmehta-sudo/neural-net
+[submodule "fastai/fastbook"]
+	path = fastai/fastbook
+	url = https://github.com/fastai/fastbook.git
